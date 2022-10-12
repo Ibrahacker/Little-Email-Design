@@ -1,0 +1,27 @@
+.card-img-top {
+  width: 30;
+  height: 7vw;
+  object-fit: contain;
+}
+.card {
+  margin: 0 auto;
+  float: none; 
+  margin-bottom: 10px; 
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.card-1{
+  background-color: rgb(211, 229, 247);
+}
+.card-2{
+  background-color: rgb(211, 229, 247);
+}
